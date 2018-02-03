@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\r\n\ Creates\ a\ new\ score\ board.\r\n\ \r\n
+comment2.params=prefix
+comment2.target=ScoreBoard(java.lang.String)
+comment2.text=public\ void\ setScore(int\ score)\ {\r\n\ \ \ \ \ \ \ \ //\ Draws\ the\ score.\r\n\ \ \ \ \ \ \ \ drawScore(score);\r\n}
+comment3.params=score
+comment3.target=void\ drawScore(int)
+comment3.text=\r\n\ Draws\ the\ score.\r\n\ \r\n\ @param\ score\ the\ score\r\n
+numComments=4
